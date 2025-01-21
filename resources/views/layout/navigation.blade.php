@@ -3,15 +3,10 @@
         <div class="flex items-center justify-between">       
         <button class="focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 rounded-md flex w-full sm:w-auto items-center sm:items-stretch justify-start sm:justify-start">
             <div class="flex items-center">
-            <a href="index.html" class="logo">
+            <a href="/" class="logo">
                 <span>
-                    <img src="assets/images/logo-sm.png" alt="logo-small" class="logo-sm h-8 align-middle inline-block">
+                    Basic Filament
                 </span>
-                <span class="self-center">
-                <img src="assets/images/logo-dark.png" alt="logo-large" class="logo-lg logo-light hidden dark:inline-block ms-1 group-data-[sidebar=dark]:inline-block">
-                <img src="assets/images/logo-dark.png" alt="logo-large" class="logo-lg logo-dark inline-block dark:hidden ms-1 group-data-[sidebar=dark]:hidden">
-            </span>
-            </a>
             </a>
             </div>
         </button>

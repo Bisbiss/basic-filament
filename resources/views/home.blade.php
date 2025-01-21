@@ -11,7 +11,7 @@
                         <div class=" w-full relative mb-10">                                
                             <div class="flex-auto p-4">            
                                 <div class="text-center mt-10">
-                                    <h4 class="my-1 font-semibold text-[30px] md:text-[40px] dark:text-slate-200 mb-5 leading-12">Bisblog</h4>
+                                    <h4 class="my-1 font-semibold text-[30px] md:text-[40px] dark:text-slate-200 mb-5 leading-12">Basic Filament</h4>
                                     <h6 class="text-gray-500 dark:text-gray-400 text-lg font-medium">Learning Basic Filament Laravel 11.</h6>
                                 </div>
                             </div><!--end card-body-->
